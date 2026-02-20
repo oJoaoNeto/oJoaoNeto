@@ -53,10 +53,10 @@
   <a href="https://github.com/oJoaoNeto">
     <img src="https://streak-stats.demolab.com?user=oJoaoNeto&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
-</div>
-
-<div align="center">
   <a href="https://github.com/oJoaoNeto">
     <img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=oJoaoNeto&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/oJoaoNeto">
+    <img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=oJoaoNeto&theme=tokyonight" />
   </a>
 </div>
